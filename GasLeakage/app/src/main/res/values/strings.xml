@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gas Leakage</string>
+    <string name="quit">Log Out</string>
+    <string name="settings">Settings</string>
+    <string name="channel">Channel ID: </string>
+    <string name="Hint">Enter Unique Channel ID</string>
+    <string name="login">Log IN</string>
+</resources>
